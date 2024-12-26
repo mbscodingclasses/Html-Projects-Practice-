@@ -1,96 +1,60 @@
-# MBS Coding Projects
+# MBS Coding HTML Full Course Projects
 
-Welcome to the repository of **MBS Coding Projects**! This repo showcases various web development projects built using HTML, CSS, and JavaScript. All projects have been deployed on Netlify and are available for live viewing.
-
-## Live Projects
-
-Here are the live links to the projects you've created:
-
-1. **Resume Project in HTML**  
-   A personal resume webpage showcasing your skills and experience.  
-   👉 [View the Resume Project](https://resumeprojectinhtmlmbscoding.netlify.app/)
-
-2. **Media Project in HTML**  
-   A multimedia webpage featuring images, videos, and audio.  
-   👉 [View the Media Project](https://mediaprojectbymbscoding.netlify.app/)
-
-3. **Frontend Roadmap Project**  
-   A roadmap for frontend developers, highlighting essential skills and tools.  
-   👉 [View the Frontend Roadmap Project](https://frontendroadmaphtmlprojectbymbscoding.netlify.app/)
-
-4. **Tribute to Dr. APJ Abdul Kalam Sir**  
-   A tribute page dedicated to the life and legacy of Dr. APJ Abdul Kalam, a renowned Indian scientist and former President.  
-   👉 [View the Tribute Project](https://tributetoapjabdulkalambymbscoding.netlify.app/)
+Welcome to the **MBS Coding HTML Full Course** repository! This repo contains various HTML projects and examples created throughout the course. These projects will help you master the fundamentals of HTML, including HTML tags, forms, tables, multimedia, and more. All code for each project is available for you to explore, modify, and learn from.
 
 ## Projects Overview
 
-### 1. **Resume Project in HTML**  
-This project involves creating a personal resume using basic HTML and CSS. It demonstrates your ability to structure a professional webpage and showcase essential information.
+Here are the projects included in this repository:
 
-**Features**:
-- A simple, responsive design.
-- Sections for personal details, skills, and experience.
-- Uses basic HTML elements like headings, paragraphs, lists, and links.
+### 1. **Resume Project in HTML**  
+This project involves creating a personal resume webpage using HTML. It focuses on structuring the webpage and displaying essential information like personal details, skills, and experience.
+
+- **Live Demo**: [Resume Project](https://resumeprojectinhtmlmbscoding.netlify.app/)
+- **Code Available**: [View Code](https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding/tree/main/Lecture8/Images)
 
 ### 2. **Media Project in HTML**  
-This project uses HTML to build a multimedia-rich webpage. It incorporates audio and video elements, along with images, to create a visually engaging and interactive user experience.
+This project creates a multimedia webpage featuring images, videos, and audio. You'll learn how to embed media content in your HTML page to enhance its interactivity.
 
-**Features**:
-- Embedding audio and video files.
-- Using the `<img>`, `<audio>`, and `<video>` HTML tags.
-- Responsive design to fit various screen sizes.
+- **Live Demo**: [Media Project](https://mediaprojectbymbscoding.netlify.app/)
+- **Code Available**: [View Code](https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding/tree/main/Lecture9)
 
 ### 3. **Frontend Roadmap Project**  
-In this project, you'll find a comprehensive roadmap outlining the essential skills a frontend developer should learn. The page is structured using semantic HTML and includes interactive elements for better user engagement.
+In this project, you'll create a frontend roadmap page that highlights the essential skills a frontend developer needs to learn. The project demonstrates a clear structure using semantic HTML and lists.
 
-**Features**:
-- A roadmap layout using lists and sections.
-- Embedded links for learning resources.
-- Responsive design for better accessibility on different devices.
+- **Live Demo**: [Frontend Roadmap Project](https://frontendroadmaphtmlprojectbymbscoding.netlify.app/)
+- **Code Available**: [View Code](https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding/tree/main/Lecture10)
 
 ### 4. **Tribute to Dr. APJ Abdul Kalam Sir**  
-This tribute page honors Dr. APJ Abdul Kalam, showcasing his life, achievements, and contributions to science and society. The project demonstrates the use of semantic HTML and multimedia elements.
+A tribute page dedicated to the life and contributions of Dr. APJ Abdul Kalam, the former President of India and renowned scientist. This project involves displaying biographical information and images.
 
-**Features**:
-- Biography section with text and images.
-- Embedded videos showcasing Dr. Kalam's speeches and interviews.
-- Responsive design to ensure it looks good on both desktop and mobile.
+- **Live Demo**: [Tribute to Dr. APJ Abdul Kalam](https://tributetoapjabdulkalambymbscoding.netlify.app/)
+- **Code Available**: [View Code](https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding/tree/main/Lecture11)
 
-## How to View the Projects
+## Project Code Overview
 
-You can view each project by clicking on the links provided above. The projects are hosted on Netlify, so you can see the live, working versions of all the pages.
+You can find the full code for each project in the following directories:
 
-## Local Setup
+1. **Resume Project**  
+   - **Directory**: [Lecture8/Images](https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding/tree/main/Lecture8/Images)
+   - This directory contains the HTML, CSS, and images used for the Resume Project.
 
-To view or edit the project locally, follow these steps:
+2. **Media Project**  
+   - **Directory**: [Lecture9](https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding/tree/main/Lecture9)
+   - This directory contains the code and media files (like images, audio, and video) for the Media Project.
+
+3. **Frontend Roadmap Project**  
+   - **Directory**: [Lecture10](https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding/tree/main/Lecture10)
+   - This directory contains the structure and code for the Frontend Roadmap Project.
+
+4. **Tribute to Dr. APJ Abdul Kalam**  
+   - **Directory**: [Lecture11](https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding/tree/main/Lecture11)
+   - This directory contains the code and media elements used to create the Tribute Page for Dr. APJ Abdul Kalam.
+
+## How to Run the Projects Locally
+
+If you want to run these projects on your local machine, follow these steps:
 
 1. **Clone the Repository**  
-   Clone this repository to your local machine:
+   Clone the repository using the following command:
    ```bash
-   git clone https://github.com/your-username/mbscoding-projects.git
-```
-
-2 . Navigate to the Project Folder
-Go to the project directory:
-
-```cd mbscoding-projects
-```
-
-3 . Open the Files
-Open the HTML files in your browser to view the projects locally:
-
-index.html (for the resume project)
-media.html (for the media project)
-roadmap.html (for the frontend roadmap project)
-tribute.html (for the tribute project)
-
-4 . Edit and Experiment
-Feel free to modify any of the projects, experiment with new ideas, and create your own versions of these webpages!
-
-5 . License
-This project is licensed under the MIT License – feel free to use, modify, and distribute the code, but please provide proper attribution.
-
-
-Thank you for visiting MBS Coding Projects! We hope these projects inspire you to continue learning and creating. Happy coding! 🚀
-
-
+   git clone https://github.com/mbscodingclasses/HTML-Full-Course-Mbs-Coding.git
